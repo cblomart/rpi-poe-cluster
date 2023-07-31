@@ -15,8 +15,9 @@ It is complemented by a 256GB USB3 stick per raspberry to have some persistent s
 | [MicroSD Card 64GB](https://www.amazon.com.be/-/en/SanDisk-SDSQUA4-064G-GN6MA-microSDXC-Adapter-Approved/dp/B08GYBBBBH) | 8 | 8.33 € | 66.64 € |
 | [USB3 sticks 256GB](https://www.amazon.com.be/dp/B08JD3DSTJ?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 8 | 17.99 € | 143.92 € |
 | [UTP cable 25cm](https://www.amazon.com.be/-/en/Cat6-Ethernet-Cable-Gigabit-Netwerkkabel/dp/B00O2EH7JM)* | 10 | 1.43 € | 14.30 € |
+| [120mm fan](https://www.amazon.com.be/-/en/BURAN-12025-12V-Pin-Cooling/dp/B08F2LMVTW) | 1 | 2.88 € | 2.88 € |
 | [9 port PoE Gbps switch](https://www.amazon.com.be/dp/B09CPY51MB) | 1 | 80.65 € | 80.65 € |
-| **Total** ||| **1119.91 €** |
+| **Total** ||| **1122.79 €** |
 
 ```* sold per 10```
 
