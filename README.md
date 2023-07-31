@@ -28,8 +28,10 @@ The models
 
 * rack unit:
 
-<script src="https://embed.github.com/view/3d/cblomart/rpi-poe-cluster/master/3d-models/2rpiholder-modular-rack-v3.stl"></script>
+<script src="https://embed.github.com/view/3d/cblomart/rpi-poe-cluster/master/3d-models/2rpiholder-modular-rack-v3.stl">
+</script>
 
 * top plate and fan holder:
 
-<script src="https://embed.github.com/view/3d/cblomart/rpi-poe-cluster/master/3d-models/2rpiholder-modular-rack-v3.stl"></script>
+<script src="https://embed.github.com/view/3d/cblomart/rpi-poe-cluster/master/3d-models/2rpiholder-modular-rack-v3.stl">
+</script>
