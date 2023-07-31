@@ -26,12 +26,5 @@ I designed a parametric 3D model for the modular racking.
 One layer holds two Raspberry Pis and allows to stack as much layer as you want.
 The models
 
-* rack unit:
-
-<script src="https://embed.github.com/view/3d/cblomart/rpi-poe-cluster/master/3d-models/2rpiholder-modular-rack-v3.stl">
-</script>
-
-* top plate and fan holder:
-
-<script src="https://embed.github.com/view/3d/cblomart/rpi-poe-cluster/master/3d-models/2rpiholder-modular-rack-v3.stl">
-</script>
+* [rack unit](./3d-models/2rpiholder-modular-rack-v3.stl)
+* [top plate and fan holder](./3d-models/2rpiholder-modular-rack-top-fan-v1.stl)
